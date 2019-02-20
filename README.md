@@ -1,2 +1,5 @@
 # web-330
-Design Patterns Repository
+Enterprise JavaScript II
+#contributors
+Professor Krasso - Bellevue University
+Josh Price - Bellevue University
